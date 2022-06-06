@@ -1,4 +1,4 @@
-# Rap-trivia
+# Rap-Trivia
 ![rap trivia](https://user-images.githubusercontent.com/67053237/172144417-daef548b-2f50-44da-acf2-885eeddb09b2.png)
 
 
