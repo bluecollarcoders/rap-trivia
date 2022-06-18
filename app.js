@@ -24,7 +24,7 @@ var myQuestions = [
     question: "Who was the number 1 rap producer in 1994",
     answers: {
       a: "Easy Mo Bee",
-      b: "Mike Deqn",
+      b: "Mike Dean",
       c: "Organized Noize",
       d: "Warren G",
     },
